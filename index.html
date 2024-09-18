@@ -1,6 +1,800 @@
-<html>
-<head></head>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap">
+    <title>Document</title>
+    <style>
+
+        :root{
+
+            --preto1: #000000;
+            --preto2: #0d0d0d;
+            --preto3: #1a1a1a;
+            --preto4: #262626;
+            --preto5: #333333;
+            --preto6: #404040;
+            --preto7: #4d4d4d;
+
+            --branco1: #ffffff;
+            --branco2: #717171;
+        }
+
+        html, body, * {
+            box-sizing: border-box;
+            padding: 0;
+            margin: 0;
+            font-family: 'Poppins', Arial, Helvetica, sans-serif;
+        }
+
+        html, body{
+            scroll-snap-type: y proximity;
+            scroll-behavior: smooth;
+            scroll-snap-stop:  normal;
+        }
+
+        body {
+            min-height: 100vh;
+            height: 100vh;
+            width: 100%;
+            background-color: lightgray;
+            position: absolute;
+        }
+
+        .containerA {
+            position: absolute; /* Necessário para o contexto de empilhamento */
+            width: 100%;
+            height: 100%;
+            background-color: gray;
+            overflow: hidden;
+            scroll-snap-align: start;
+        }
+
+        .containerA .areaTitulo{
+            font-family: 'Poppins', Arial, Helvetica, sans-serif;
+            font-weight: 700;
+            font-size: 32px;
+        }
+
+        .videoSimples {
+            position: absolute; /* Ajustado para absolute */
+            top: 0;
+            left: 0;
+            height: 100%;
+            width: 100%;
+            object-fit: cover;
+            z-index: 10; /* Z-index menor para o vídeo */
+            background-color: burlywood;
+        }
+
+        .telaSobreVideo {
+            position: absolute; /* Ajustado para absolute */
+            top: 0;
+            left: 0;
+            height: 100%;
+            width: 100%;
+            z-index: 20; /* Z-index maior para sobrepor o vídeo */
+            background-color: #1a1a1a90;
+            color: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .containerB {
+            position: relative;
+            width: 100%;
+            max-width: 100%;
+            top: 100%;
+            min-height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            overflow: hidden;
+            color: var(--branco1);
+            background-color: var(--preto3);
+        }
+
+        .containerC {
+            position: relative;
+            width: 100%;
+            max-width: 100%;
+            top: 100%;
+            min-height: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: start;
+            align-items: center;
+            flex-direction: column;
+            overflow: hidden;
+            color: var(--branco1);
+            background-color: var(--preto3);
+            z-index: 10;
+            scroll-snap-align: start;
+        }
+
+        .containerC::before {
+            content: "";
+            position: absolute;
+            top: 0%;
+            left: 0%;
+            width: 100%;
+            height: 100%;
+            background-image: url('imgs/item2.jpg');
+            background-size: cover; /* Ajusta a imagem para cobrir a área inteira */
+            background-position: center; /* Centraliza a imagem */
+            background-repeat: no-repeat; /* Impede a repetição da imagem */
+            background-attachment: fixed;
+            filter: brightness(79%); /* Aplica desfoque e escurecimento */
+            z-index: -10; /* Coloca o pseudo-elemento atrás do conteúdo principal */
+        }
+
+        .containerC .areaTitulo{
+
+            position: relative;
+            font-size: 40px;
+            font-family: 'Poppins','Open Sans', Arial, Helvetica, sans-serif;
+            font-weight: 500;
+            border-bottom: 1px solid var(--branco1);
+            min-width: 75%;
+            height: 7.5%;
+            min-height: 5%;
+            display: flex;
+            justify-content: center;
+            align-items: end;
+            top: 7.5%;
+        }
+
+        .containerC .areaCardSkills {
+            width: 75%;
+            height: 92.5%;
+            display: flex;
+            justify-content: space-between;
+            align-items: start;
+            background-color: var(--preto2);
+            background-color: initial;
+        }
+
+        .areaCardSkills .cardSkillsA {
+
+            width: 30%;
+            height: 100%;
+            background-color: var(--preto7);
+            background-color: initial;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            
+        }
+
+        .areaCardSkills .cardSkillsA .cardA{
+            width: 100%;
+            height: 50%;
+            background-color: var(--branco2);
+            border-radius: 10px;
+            color: var(--preto3);
+            font-family: 'Poppins', Arial, Helvetica, sans-serif;
+            font-weight: 700;
+            background-color: initial;
+            background-color: white;
+        }
+
+        .cardADivImg{
+            width: 100%;
+            height: 79%;
+        }
+
+        .cardADivImg .cardAImg{
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+        }
+
+        .cardATextos{
+            width: 100%;
+            height: 21%;
+            display: flex;
+            justify-content: start;
+            align-items: center;
+            flex: row;
+        }
+
+        .cardATextos .datacao{
+            display: flex;
+            width: 30%;
+            height: 70%;
+            justify-content: start;
+            align-items: center;
+            flex-direction: column;
+            background-color: var(--preto5);
+            background-color: initial;
+        }
+
+        .cardATextos .datacao :first-child{
+            color: #cc0000;
+            font-size: 19px;
+        }
+
+        .cardATextos .datacao :nth-child(2){
+            font-size: 26px;
+        }
+
+        .cardATextos .textos{
+            display: flex;
+            width: 70%;
+            height: 70%;
+            justify-content: space-around;
+            align-items: start;
+            flex-direction: column;
+            background-color: initial;
+            background-color: white;
+        }
+
+        .cardATextos .textos :first-child{
+            font-size: 26px;
+        }
+
+        .areaCardSkills .cardSkillsB {
+
+            position: relative;
+            width: 60%;
+            height: 100%;
+            background-color: var(--preto7);
+            background-color: initial;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+
+        .areaCardSkills .cardSkillsB .fila1{
+            width: 100%;
+            height: 25%;
+            display: flex;
+            justify-content: space-evenly;
+            align-items: center;
+            flex-direction: row;
+        }
+
+        .areaCardSkills .cardSkillsB .fila2{
+            width: 100%;
+            height: 25%;
+            display: flex;
+            justify-content: space-evenly;
+            align-items: center;
+            flex: row;
+        }
+
+        .areaCardSkills .cardSkillsB .cardB{
+            width: 45%;
+            height: 90%;
+            min-height: 135px;
+            background-color: var(--branco2);
+            border-radius: 10px;
+            color: var(--preto3);
+            font-family: 'Poppins', Arial, Helvetica, sans-serif;
+            font-weight: 700;
+            background-color: initial;
+            background-color: white;
+        }
+
+        .areaCardSkills .cardSkillsB .cardB:first-child{
+            margin-left: -10%;
+        }
+
+        .cardBDivImg{
+            width: 100%;
+            height: 65%;
+        }
+
+        .cardBDivImg .cardBImg{
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+        }
+
+        .cardBTextos{
+            width: 100%;
+            height: 35%;
+            display: flex;
+            justify-content: start;
+            align-items: center;
+            flex: row;
+        }
+
+        .cardBTextos .datacao{
+            display: flex;
+            width: 30%;
+            height: 40%;
+            justify-content: start;
+            align-items: center;
+            flex-direction: column;
+            background-color: var(--preto5);
+            background-color: initial;
+        }
+
+        .cardBTextos .datacao :first-child{
+            color: #cc0000;
+            font-size: 14px;
+        }
+
+        .cardBTextos .datacao :nth-child(2){
+            font-size: 19px;
+        }
+
+        .cardBTextos .textos{
+            display: flex;
+            width: 70%;
+            height: 70%;
+            justify-content: space-around;
+            align-items: start;
+            flex-direction: column;
+            background-color: initial;
+            background-color: white;
+        }
+
+        .cardBTextos .textos :first-child{
+            font-size: 19px;
+        }
+
+
+        .medidas {
+            position: fixed;
+            color: white;
+            font-family: 'Poppins', Arial, Helvetica, sans-serif;
+            font-size: 42px;
+            z-index: 15;
+        }
+
+        .containerD {
+            position: relative;
+            width: 100%;
+            max-width: 100%;
+            top: 100%;
+            min-height: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: row;
+            overflow: hidden;
+            color: var(--branco1);
+            z-index: 10;
+            background-color: var(--preto3);
+            background-image: url('imgs/item44.jpg');
+            background-size: cover; /* Ajusta a imagem para cobrir a área inteira */
+            background-position: center; /* Centraliza a imagem */
+            background-repeat: no-repeat; /* Impede a repetição da imagem */
+            background-attachment: fixed;
+            scroll-snap-align: start;
+        }
+
+        .containerD::before {
+            content: "";
+            position: absolute;
+            top: 0%;
+            left: 0%;
+            width: 100%;
+            height: 100%;
+            background-image: url('imgs/item5.jpg');
+            background-size: cover; /* Ajusta a imagem para cobrir a área inteira */
+            background-position: center; /* Centraliza a imagem */
+            background-repeat: no-repeat; /* Impede a repetição da imagem */
+            background-attachment: fixed;
+            filter: unset;
+            filter: brightness(70%); /* Aplica desfoque e escurecimento */
+            z-index: -10; /* Coloca o pseudo-elemento atrás do conteúdo principal */
+        }
+
+        .containerD .bloco1{
+            position: relative;
+            left: -2.5%;
+            border: 1px solid white;
+            border: 0px;
+            height: 40%;
+            width: 40%;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .containerD .bloco1 .texto,
+        .containerD .bloco2 .texto{
+            font-weight: 700;
+            font-size: 26px;
+            font-family: 'Poppins', Arial, Helvetica, sans-serif;
+            height: 10%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .containerD .bloco1 .cards,
+        .containerD .bloco2 .cards{
+            display: flex;
+            justify-content: space-evenly;
+            align-items: center;
+            flex-direction: row;
+            height: 80%;
+            border: 1px solid white;
+            border: 0px;
+        }
+
+        .containerD .bloco1 .cards .fila,
+        .containerD .bloco2 .cards .fila{
+            position: relative;
+            display: flex;
+            justify-content: space-evenly;
+            align-items: center;
+            flex-direction: column;
+            height: 100%;
+            width: 40%;
+        }
+
+        .containerD .bloco1 .card,
+        .containerD .bloco2 .card{
+            width: 100%;
+            height: 40%;
+            padding: 10%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 16px;
+            font-weight: 700;
+            text-align: center;
+            border-radius: 10px;
+            background-color: rgba(0, 0, 0, 0.5);
+        }
+        
+        .containerD .bloco1 .card .texto,
+        .containerD .bloco2 .card .texto{
+            font-size: 16px;
+            filter: opacity(100%);
+        }
+
+        .containerD .bloco2{
+            position: relative;
+            height: 40%;
+            width: 40%;
+            right: -2.5%;
+            display: flex;
+            justify-content: flex-start;
+            align-items: stretch;
+            flex-direction: column;
+            border: 1px solid white;
+            border: 0px;
+        }
+
+        .video-container {
+            position: relative;
+            height: 0;
+            overflow: hidden;
+            height: 100%;
+            max-width: 100%;
+            background: #000;
+            border-radius: 10px;
+        }
+
+        .video-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+
+        .containerB {
+            position: relative;
+            width: 100%;
+            max-width: 100%;
+            top: 100%;
+            min-height: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: row;
+            overflow: hidden;
+            color: var(--branco1);
+            background-color: var(--preto3);
+            z-index: 10;
+            background-image: url('imgs/item44.jpg');
+            background-size: cover; /* Ajusta a imagem para cobrir a área inteira */
+            background-position: center; /* Centraliza a imagem */
+            background-repeat: no-repeat; /* Impede a repetição da imagem */
+            background-attachment: fixed;
+            scroll-snap-align: start;
+            display: none;
+        }
+
+        .containerE {
+            position: relative;
+            width: 100%;
+            max-width: 100%;
+            top: 100%;
+            min-height: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: row;
+            overflow: hidden;
+            color: var(--branco1);
+            z-index: 10;
+            background-color: var(--preto3);
+            background-image: url('imgs/item37.jpg');
+            background-size: cover; /* Ajusta a imagem para cobrir a área inteira */
+            background-position: center; /* Centraliza a imagem */
+            background-repeat: no-repeat; /* Impede a repetição da imagem */
+            background-attachment: fixed;
+            scroll-snap-align: start;
+        }
+
+        .containerE .areaGeral{
+            width: 100%;
+            height: 50%;
+        }
+
+        .containerE .areaTitulo{
+            width: 100%;
+            height: 12.5%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 26px;
+            font-weight: 600;
+        }
+
+        .containerE .socialMedia{
+            position: relative;
+            width: 100%;
+            height: auto;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            font-size: 20px;
+            font-weight: 400;
+        }
+
+        .socialMedia .github{
+            cursor: pointer;
+        }
+        
+        .video-container {
+            position: relative;
+            height: 0;
+            overflow: hidden;
+            height: 100%;
+            max-width: 100%;
+            background: #000;
+            border-radius: 10px;
+        }
+
+        .video-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+
+        .hidden{
+            opacity: 0;
+            filter: blur(5px);
+            transform: translateX(-100%);
+            transition: all 1s;
+        }
+
+        .hidden2{
+            opacity: 0;
+            filter: blur(5px);
+            transition: all 1s;
+        }
+
+        .hidden3{
+            opacity: 0;
+            filter: blur(5px);
+            transform: translateX(100%);
+            transition: all 1s;
+        }
+
+        .hidden.show, 
+        .hidden2.show,
+        .hidden3.show{
+            opacity: 1;
+            filter: blur(0);
+            transform: translateX(0);
+        }
+
+        @media(prefers-reduced-motion){
+            .hidden{
+                transition: none;
+            }
+        }
+
+    </style>
+</head>
 <body>
-  <h2>Hello World</h2>
+    <div class="medidas" id="medidas" style="display: none;">
+        <div>largura: <span id="spanLargura">x</span></div>
+        <div>altura &nbsp;: <span id="spanAltura">y</span></div>
+    </div>
+
+    <div class="containerA">
+        <video autoplay muted loop id="videoSimples" class="videoSimples">
+            <source src="rain.mp4" type="video/mp4">
+            Your browser does not support HTML5 video.
+        </video>
+        <div class="telaSobreVideo">
+            <p class="areaTitulo hidden">It's Rainning as much as I am Coding</p>
+        </div>
+    </div>    
+
+    <div id="containerB" class="containerB" style="display: none;">
+        <p onclick='mudaCorFundo("containerB", event)'>#3c3c3c</p>
+        <p onclick='mudaCorFundo("containerB", event)'>#5f5f5f</p>
+        <p onclick='mudaCorFundo("containerB", event)'>#848484</p>
+        <p onclick='mudaCorFundo("containerB", event)'>#ababab</p>
+        <p onclick='mudaCorFundo("containerB", event)'>#d4d4d4</p>
+        <p>Paleta 2</p>
+        <p onclick='mudaCorFundo("containerB", event)'>#3e3e3e</p>
+        <p onclick='mudaCorFundo("containerB", event)'>#272727</p>
+        <p onclick='mudaCorFundo("containerB", event)'>#1e1e1e</p>
+        <p onclick='mudaCorFundo("containerB", event)'>#131313</p>
+        <p onclick='mudaCorFundo("containerB", event)'>#000000</p>
+        <p>Paleta 3</p>
+        <p onclick='mudaCorFundo("containerB", event)'>#000000</p>
+        <p onclick='mudaCorFundo("containerB", event)'>#0d0d0d</p>
+        <p onclick='mudaCorFundo("containerB", event)'>#1a1a1a</p>
+        <p onclick='mudaCorFundo("containerB", event)'>#262626</p>
+        <p onclick='mudaCorFundo("containerB", event)'>#333333</p>
+        <p onclick='mudaCorFundo("containerB", event)'>#404040</p>
+        <p onclick='mudaCorFundo("containerB", event)'>#4d4d4d</p>
+    </div>
+
+    <div id="containerB" class="containerB">
+        <div class="bloco1">
+            <div class="texto">Under Construction</div>
+        </div>
+    </div>
+
+    <div id="containerC" class="containerC">
+        <div class="areaTitulo hidden">Latest Tutorials</div>
+        <div class="areaCardSkills hidden">
+            <div class="cardSkillsA">
+                <div class="cardA"> 
+                    <div class="cardADivImg">
+                        <img class="cardAImg" src="imgs/item1.jpg">
+                    </div>
+                    <div class="cardATextos">
+                        <div class="datacao">
+                            <span>nov</span><span>10</span>
+                        </div>
+                        <div class="textos">
+                            <span>Lorem Ipsum</span><span>Lorem ipsum</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="cardSkillsB">
+                <div class="fila1">
+                    <div class="cardB"> 
+                        <div class="cardBDivImg">
+                            <img class="cardBImg" src="imgs/item2.jpg">
+                        </div>
+                        <div class="cardBTextos">
+                            <div class="datacao">
+                                <span>nov</span><span>10</span>
+                            </div>
+                            <div class="textos">
+                                <span>Lorem Ipsum</span><span>Lorem ipsum</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="cardB"> 
+                        <div class="cardBDivImg">
+                            <img class="cardBImg" src="imgs/item3.jpg">
+                        </div>
+                        <div class="cardBTextos">
+                            <div class="datacao">
+                                <span>nov</span><span>10</span>
+                            </div>
+                            <div class="textos">
+                                <span>Lorem Ipsum</span><span>Lorem ipsum</span>
+                            </div>
+                        </div>
+                    </div>    
+                </div>
+                <div class="fila2">
+                    <div class="cardB"> 
+                        <div class="cardBDivImg">
+                            <img class="cardBImg" src="imgs/item4.jpg">
+                        </div>
+                        <div class="cardBTextos">
+                            <div class="datacao">
+                                <span>nov</span><span>10</span>
+                            </div>
+                            <div class="textos">
+                                <span>Lorem Ipsum</span><span>Lorem ipsum</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="cardB"> 
+                        <div class="cardBDivImg">
+                            <img class="cardBImg" src="imgs/item5.jpg">
+                        </div>
+                        <div class="cardBTextos">
+                            <div class="datacao">
+                                <span>nov</span><span>10</span>
+                            </div>
+                            <div class="textos">
+                                <span>Lorem Ipsum</span><span>Lorem ipsum</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="containerD" class="containerD">
+        <div class="bloco1 hidden">
+            <div class="texto">Recent Activity</div>
+            <div class="cards">
+                <div class="fila">
+                    <div class="card"><span class="texto">40 commits</span></div>
+                    <div class="card"><span class="texto">15 projects</span></div>
+                </div>
+                <div class="fila" style="top: 15%;">
+                    <div class="card"><span class="texto">HTML, CSS, javascript, react, C#, SQL</span></div>
+                    <div class="card"><span class="texto">Full-Stack Developer Mid-Level</span></div>
+                </div>
+            </div>
+        </div>
+        <div class="bloco2 hidden3">
+            <div class="video-container">
+                <iframe src="https://www.youtube.com/embed/QHIyFIMu4uQ" title="Som relaxante de chuva no quarto escuro (sem anúncios) - Sons de chuva para dormir, estudar, meditar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+        </div>
+    </div>
+
+    <div class="containerE">
+        <div class="areaGeral hidden2">
+            <div class="areaTitulo">Social Media</div>
+            <div class="socialMedia">
+                <div class="github" onclick="location='https://github.com/mateusredfield'">github.com/mateusredfield</div>
+                <div class="email">mateuscampari at gmail.com</div>
+            </div>
+        </div>
+    </div>
+
 </body>
 </html>
+
+<script>
+    function mudaCorFundo( id = "", e ){
+        
+        let container = document.getElementById(id);
+        if ( !container ) return;
+
+        container.style.backgroundColor = e.currentTarget.innerHTML;
+    }
+
+    const observer = new IntersectionObserver( (interceptados) => {
+        interceptados.forEach((interceptado) => {
+            interceptado.isIntersecting ? interceptado.target.classList.add('show') : interceptado.target.classList.remove('show');
+        })
+    })
+
+    document.querySelectorAll('.hidden').forEach((el => observer.observe(el)))
+    document.querySelectorAll('.hidden2').forEach((el => observer.observe(el)))
+    document.querySelectorAll('.hidden3').forEach((el => observer.observe(el)))
+</script>
