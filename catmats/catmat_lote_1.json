@@ -1,0 +1,3502 @@
+[
+  [
+    "Código CATMAT",
+    "Princípio Ativo",
+    "Concentração",
+    "Forma Farmacêutica",
+    "Unidade de Fornecimento"
+  ],
+  [
+    "BR0268317",
+    "Abacavir",
+    "20 mg/ml",
+    "Solução oral",
+    "Frasco 240 ml"
+  ],
+  [
+    "BR0268315",
+    "Abacavir",
+    "300 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0365451",
+    "Abatacepte",
+    "250 mg",
+    "Pó liofilizado para solução injetável",
+    "Frasco-ampola"
+  ],
+  [
+    "BR0412776",
+    "Abiraterona, Acetato",
+    "250 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0354317",
+    "Acarbose",
+    "100 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0268202",
+    "Acarbose",
+    "50 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0293892",
+    "Acebrofilina",
+    "10 mg/ml",
+    "Xarope",
+    "Frasco 120 ml"
+  ],
+  [
+    "BR0293891",
+    "Acebrofilina",
+    "5 mg/ml",
+    "Xarope",
+    "Frasco 120 ml"
+  ],
+  [
+    "BR0271666",
+    "Aceclofenaco",
+    "100 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0276774",
+    "Acetato de Sodio",
+    "2 meq/ml",
+    "Solução injetável",
+    "Ampola 10 ml"
+  ],
+  [
+    "BR0338332",
+    "Acetato de Zinco",
+    "0,5 meq/ml",
+    "Solução injetável",
+    "Ampola 2 ml"
+  ],
+  [
+    "BR0278283",
+    "Acetazolamida",
+    "250 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0286864",
+    "Acetilcisteína",
+    "100 mg",
+    "Granulado",
+    "Envelope 5 g"
+  ],
+  [
+    "BR0335091",
+    "Acetilcisteína",
+    "100 mg/ml",
+    "Solução injetável",
+    "Ampola 3 ml"
+  ],
+  [
+    "BR0270557",
+    "Acetilcisteína",
+    "200 mg",
+    "Granulado",
+    "Comprimido 5 g"
+  ],
+  [
+    "BR0270558-2",
+    "Acetilcisteína",
+    "20 mg/ml",
+    "Xarope",
+    "Frasco 100 ml"
+  ],
+  [
+    "BR0270558-3",
+    "Acetilcisteína",
+    "20 mg/ml",
+    "Xarope",
+    "Frasco 120 ml"
+  ],
+  [
+    "BR0270558-1",
+    "Acetilcisteína",
+    "20 mg/ml",
+    "Xarope",
+    "Frasco 80 ml"
+  ],
+  [
+    "BR0355786",
+    "Acetilcisteína",
+    "40 mg/ml",
+    "Xarope",
+    "Frasco 100 ml"
+  ],
+  [
+    "BR0355786-1",
+    "Acetilcisteína",
+    "40 mg/ml",
+    "Xarope",
+    "Frasco 120"
+  ],
+  [
+    "BR0356952",
+    "Acetilcisteína",
+    "600 mg",
+    "Comprimido efervescente",
+    "Comprimido"
+  ],
+  [
+    "BR0274806",
+    "Acetilcisteína",
+    "600 mg",
+    "Granulado",
+    "Envelope 5 g"
+  ],
+  [
+    "BR0393493",
+    "Acetilcisteína + Tuaminoeptano",
+    "10 mg + 5 mg/ml",
+    "Solução nasal",
+    "Frasco"
+  ],
+  [
+    "BR393493",
+    "Acetilcisteína + Tuaminoeptano, 10 + 5 Mg/ml",
+    "10 + 5",
+    "Solução nasal",
+    "Frasco"
+  ],
+  [
+    "BR0268370",
+    "Aciclovir",
+    "200 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0268374",
+    "Aciclovir",
+    "250 mg",
+    "Pó para solução injetável",
+    "Frasco-ampola"
+  ],
+  [
+    "BR0268373",
+    "Aciclovir",
+    "30 mg/g oftálmica",
+    "Pomada",
+    "Bisnaga 4,5 g"
+  ],
+  [
+    "BR0268372",
+    "Aciclovir",
+    "400 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0268375-2",
+    "Aciclovir",
+    "5 %",
+    "Creme",
+    "Bisnaga 10 g"
+  ],
+  [
+    "BR0268375-1",
+    "Aciclovir",
+    "5 %",
+    "Creme",
+    "Bisnaga 5 g"
+  ],
+  [
+    "BR0368922-1",
+    "Ácido Acético",
+    "2 %",
+    "Solução",
+    "Frasco 1000 ml"
+  ],
+  [
+    "BR0368922-2",
+    "Ácido Acético",
+    "2 %",
+    "Solução",
+    "Frasco 250 ml"
+  ],
+  [
+    "BR0368922",
+    "Ácido Acético",
+    "2 %",
+    "Solução",
+    "Frasco 50 ml"
+  ],
+  [
+    "BR0368921-3",
+    "Ácido Acético",
+    "3 %",
+    "Solução",
+    "Frasco 100 ml"
+  ],
+  [
+    "BR0368921",
+    "Ácido Acético",
+    "3 %",
+    "Solução",
+    "Frasco 250 ml"
+  ],
+  [
+    "BR0368919-2",
+    "Ácido Acético",
+    "5 %",
+    "Solução",
+    "Frasco 1000 ml"
+  ],
+  [
+    "BR0368919-4",
+    "Ácido Acético",
+    "5 %",
+    "Solução tópica",
+    "Frasco 10 ml"
+  ],
+  [
+    "BR0368919-3",
+    "Ácido Acético",
+    "5 %",
+    "Solução",
+    "Frasco 250 ml"
+  ],
+  [
+    "BR0368919-1",
+    "Ácido Acético",
+    "5 %",
+    "Solução",
+    "Frasco 500 ml"
+  ],
+  [
+    "BR0368919",
+    "Ácido Acético",
+    "5 %",
+    "Solução",
+    "Frasco 50 ml"
+  ],
+  [
+    "BR0337678",
+    "Ácido Acetilsalicílico",
+    "100 mg",
+    "Comprimido de liberação prolongada",
+    "Comprimido"
+  ],
+  [
+    "BR0267502",
+    "Ácido Acetilsalicílico",
+    "100 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0270965",
+    "Ácido Acetilsalicílico",
+    "100 mg tamponado",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0343877",
+    "Ácido Acetilsalicílico",
+    "200 mg tamponado",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0337679",
+    "Ácido Acetilsalicílico",
+    "300 mg",
+    "Comprimido de liberação prolongada",
+    "Comprimido"
+  ],
+  [
+    "BR0270548",
+    "Ácido Acetilsalicílico",
+    "325 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0267501",
+    "Ácido Acetilsalicílico",
+    "500 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0285055",
+    "Ácido Acetilsalicílico",
+    "81 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0309045",
+    "Acido Aminocapróico",
+    "200 mg/ml",
+    "Suspensão injetável",
+    "Frasco-ampola 20 ml"
+  ],
+  [
+    "BR0278646",
+    "Acido Aminocapróico",
+    "50 mg/ml",
+    "Suspensão injetável",
+    "Frasco-ampola 20 ml"
+  ],
+  [
+    "BR0271687",
+    "Ácido Ascórbico",
+    "100 mg/ml",
+    "Solução injetável",
+    "Ampola 5 ml"
+  ],
+  [
+    "BR0271685",
+    "Ácido Ascórbico",
+    "1 g",
+    "Comprimido efervescente",
+    "Comprimido"
+  ],
+  [
+    "BR0271689-1",
+    "Ácido Ascórbico",
+    "200 mg/ml",
+    "Solução oral",
+    "Frasco 20 ml"
+  ],
+  [
+    "BR0271689-2",
+    "Ácido Ascórbico",
+    "200 mg/ml",
+    "Solução oral",
+    "Frasco 30 ml"
+  ],
+  [
+    "BR0271686",
+    "Ácido Ascórbico",
+    "2 g",
+    "Comprimido efervescente",
+    "Comprimido"
+  ],
+  [
+    "BR0271691",
+    "Ácido Ascórbico",
+    "500 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0430292",
+    "Ácido Ascórbico + Alfatocoferol + Zinco + Selênio + Retinol",
+    "45 mg + 4,4 mg + 3,75 mg + 17,5 mcg + 400 mcg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0395609",
+    "Ácido Ascórbico + Zinco, Citrato",
+    "1 g + 10 mg",
+    "Comprimido efervescente",
+    "Comprimido"
+  ],
+  [
+    "BR0268289",
+    "Ácido Bórico",
+    "(água boricada) 2 %",
+    "Solução",
+    "Frasco 100 ml"
+  ],
+  [
+    "BR0268290",
+    "Ácido Bórico",
+    "(água boricada) 3 %",
+    "Solução",
+    "Frasco 100 ml"
+  ],
+  [
+    "BR0395947",
+    "Ácido Cítrico + Citrato de Sódio + Citrato de Potássio",
+    "70 mg + 98 mg + 108 mg/ml",
+    "Xarope",
+    "Frasco 500 ml"
+  ],
+  [
+    "BR0278489",
+    "Ácido Fólico",
+    "0,2 mg/ml",
+    "Solução oral",
+    "Frasco 30 ml"
+  ],
+  [
+    "BR0278490",
+    "Ácido Fólico",
+    "0,4 mg/ml",
+    "Solução oral",
+    "Frasco 100 ml"
+  ],
+  [
+    "BR0273824",
+    "Ácido Fólico",
+    "2 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0267503",
+    "Ácido Fólico",
+    "5 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0393803",
+    "Ácido Fólico",
+    "5 mg/ml",
+    "Solução oral",
+    "Frasco 10 ml"
+  ],
+  [
+    "BR3933803",
+    "Ácido Fólico, 5 %",
+    "5",
+    "Solução oral",
+    "Frasco 10"
+  ],
+  [
+    "BR0434128",
+    "Ácido Fólico + Acetato de Racealfatocoferol",
+    "800 mcg + 20 mg",
+    "Cápsula",
+    "Cápsula"
+  ],
+  [
+    "BR0421665",
+    "Ácido Fólico + Ferro Aminoácido Quelato",
+    "0,2 + 30 mg/ml",
+    "Solução oral",
+    "Frasco 30 ml"
+  ],
+  [
+    "BR0296825",
+    "Ácido Fólico + Ferro Aminoácido Quelato",
+    "5 mg + 150 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0386026",
+    "Ácido Folínico (Folinato de Cálcio)",
+    "0,5 mg/ml",
+    "Solução oral",
+    "Frasco 50 ml"
+  ],
+  [
+    "BR0268292",
+    "Ácido Folínico (Folinato de Cálcio)",
+    "15 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0309042",
+    "Ácido Folínico (Folinato de Cálcio)",
+    "50 mg",
+    "Pó liofilizado para solução injetável",
+    "Frasco-ampola"
+  ],
+  [
+    "BR0434091",
+    "Ácido Folínico (Folinato de Cálcio)",
+    "7,5 mg/ml",
+    "Solução oral",
+    "Frasco 60 ml"
+  ],
+  [
+    "BR0295624",
+    "Ácido Fusídico",
+    "20 mg/g",
+    "Creme",
+    "Bisnaga 10 g"
+  ],
+  [
+    "BR0377422",
+    "Acido Fusidico + Betametasona",
+    "20 mg + 1 mg/g",
+    "Creme",
+    "Bisnaga 15 g"
+  ],
+  [
+    "BR0395602",
+    "Ácido Gamaminobutírico + Lisina + Tiamina + Piridoxina + Cálcio",
+    "100 mg + 100 mg + 4 mg + 8 mg + 8 mg/ml",
+    "Xarope",
+    "Frasco 100 ml"
+  ],
+  [
+    "BR0429151",
+    "Ácido Gamaminobutírico + Lisina + Tiamina + Piridoxina + Cálcio",
+    "50 mg + 50 mg + 2 mg + 4 mg + 4 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0388569",
+    "Ácido Ibandrônico (Ibandronato de Sódio)",
+    "150 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0398939",
+    "Ácido Ibandrônico (Ibandronato de Sódio)",
+    "1 mg/ml",
+    "Solução injetável",
+    "Seringa 3 ml"
+  ],
+  [
+    "BR0271670",
+    "Ácido Mefenâmico",
+    "500 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0278589-1",
+    "Ácido Mucopolissacarídeo Polissulfúrico",
+    "3 mg/g",
+    "Gel",
+    "Bisnaga 20 g"
+  ],
+  [
+    "BR0278589-2",
+    "Ácido Mucopolissacarídeo Polissulfúrico",
+    "3 mg/g",
+    "Gel",
+    "Bisnaga 40 g"
+  ],
+  [
+    "BR0278588-1",
+    "Ácido Mucopolissacarídeo Polissulfúrico",
+    "5 mg/g",
+    "Pomada",
+    "Bisnaga 20 g"
+  ],
+  [
+    "BR0278587-1",
+    "Ácido Mucopolissacarídeo Polissulfúrico",
+    "5 mg/g",
+    "Gel",
+    "Bisnaga 20 g"
+  ],
+  [
+    "BR0278587-2",
+    "Ácido Mucopolissacarídeo Polissulfúrico",
+    "5 mg/g",
+    "Gel",
+    "Bisnaga 40 g"
+  ],
+  [
+    "BR0278588",
+    "Ácido Mucopolissacarídeo Polissulfúrico",
+    "5 mg/g",
+    "Pomada",
+    "Bisnaga 40 g"
+  ],
+  [
+    "BR0268295",
+    "Ácido Nalidíxico",
+    "500 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0268296-1",
+    "Ácido Nalidíxico",
+    "50 mg/ml",
+    "Suspensão oral",
+    "Frasco 60 ml"
+  ],
+  [
+    "BR0268296",
+    "Ácido Nalidíxico, 50 Mg/ml",
+    "50",
+    "Suspensão oral",
+    "Frasco 100"
+  ],
+  [
+    "BR0395465",
+    "Ácido Nicotínico",
+    "1000 mg",
+    "Comprimido de liberação prolongada",
+    "Comprimido"
+  ],
+  [
+    "BR0395601",
+    "Ácido Nicotínico",
+    "250 mg",
+    "Comprimido de liberação prolongada",
+    "Comprimido"
+  ],
+  [
+    "BR0367692",
+    "Ácido Nicotínico",
+    "500 mg",
+    "Comprimido de liberação prolongada",
+    "Comprimido"
+  ],
+  [
+    "BR0367693",
+    "Ácido Nicotínico",
+    "750 mg",
+    "Comprimido de liberação prolongada",
+    "Comprimido"
+  ],
+  [
+    "BR0374313",
+    "Acido Para-aminosalicilico",
+    "4 g",
+    "Granulado",
+    "Sachê 4 g"
+  ],
+  [
+    "BR0279338-2",
+    "Ácido Poliacrílico",
+    "2 mg/g oftalmico",
+    "Gel",
+    "Bisnaga 10 g"
+  ],
+  [
+    "BR0279338-1",
+    "Ácido Poliacrílico",
+    "2 mg/g oftalmico",
+    "Gel",
+    "Bisnaga 5 g"
+  ],
+  [
+    "BR0390441-2",
+    "Ácido Poliacrílico",
+    "3 mg/g oftalmico",
+    "Gel",
+    "Bisnaga 10 g"
+  ],
+  [
+    "BR0390441-1",
+    "Ácido Poliacrílico",
+    "3 mg/g oftalmico",
+    "Gel",
+    "Bisnaga 5 g"
+  ],
+  [
+    "BR0395558-1",
+    "Ácido Salicílico",
+    "20 mg/g",
+    "Pomada",
+    "Bisnaga 30 g"
+  ],
+  [
+    "BR0352932",
+    "Ácido Salicílico",
+    "270 mg/g",
+    "Gel",
+    "Bisnaga 20 g"
+  ],
+  [
+    "BR0395558",
+    "Ácido Salicílico",
+    "5 %",
+    "Pomada",
+    "Bisnaga"
+  ],
+  [
+    "BR0318305",
+    "Ácido Salicílico + Ácido Lático",
+    "170 mg + 150 mg/ml",
+    "Solução tópica",
+    "Frasco 15 ml"
+  ],
+  [
+    "BR0348002-1",
+    "Ácidos Graxos Essenciais",
+    "",
+    "Solução",
+    "Frasco 100 ml"
+  ],
+  [
+    "BR0348002-2",
+    "Ácidos Graxos Essenciais",
+    "",
+    "Solução",
+    "Frasco 200 ml"
+  ],
+  [
+    "BR0348002-3",
+    "Ácidos Graxos Essenciais",
+    "",
+    "Solução",
+    "Frasco 250 ml"
+  ],
+  [
+    "BR0381060",
+    "Ácidos Graxos Poliinsaturados Marinhos",
+    "1000 mg",
+    "Cápsula",
+    "Cápsula"
+  ],
+  [
+    "BR0394865",
+    "Ácido Tióctico",
+    "600 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0278338",
+    "Ácido Tranexâmico",
+    "250 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0327566",
+    "Ácido Tranexâmico",
+    "50 mg/ml",
+    "Solução injetável",
+    "Ampola 5 ml"
+  ],
+  [
+    "BR0269070-2",
+    "Ácido Tricloroacético",
+    "30 %",
+    "Solução tópica",
+    "Frasco 10 ml"
+  ],
+  [
+    "BR0269070-1",
+    "Ácido Tricloroacético",
+    "30 %",
+    "Solução",
+    "Frasco 20 ml"
+  ],
+  [
+    "BR0269070",
+    "Ácido Tricloroacético",
+    "30 %",
+    "Solução",
+    "Frasco 3 ml"
+  ],
+  [
+    "BR0269068-1",
+    "Ácido Tricloroacético",
+    "50 %",
+    "Solução",
+    "Frasco 10 ml"
+  ],
+  [
+    "BR0269068-2",
+    "Ácido Tricloroacético",
+    "50 %",
+    "Solução",
+    "Frasco 15 ml"
+  ],
+  [
+    "BR0269068-3",
+    "Ácido Tricloroacético",
+    "50 %",
+    "Solução",
+    "Frasco 20 ml"
+  ],
+  [
+    "BR0269068",
+    "Ácido Tricloroacético",
+    "50 %",
+    "Solução",
+    "Frasco 5 ml"
+  ],
+  [
+    "BR0286359-1",
+    "Ácido Tricloroacético",
+    "60 %",
+    "Solução",
+    "Frasco 20 ml"
+  ],
+  [
+    "BR0269072",
+    "Ácido Tricloroacético",
+    "75 %",
+    "Solução",
+    "Frasco 100 ml"
+  ],
+  [
+    "BR0269072-1",
+    "Ácido Tricloroacético",
+    "75 %",
+    "Solução",
+    "Frasco 20 ml"
+  ],
+  [
+    "BR0269073-1",
+    "Ácido Tricloroacético",
+    "80 %",
+    "Solução",
+    "Frasco 100 ml"
+  ],
+  [
+    "BR0269073-3",
+    "Ácido Tricloroacético",
+    "80 %",
+    "Solução",
+    "Frasco 15 ml"
+  ],
+  [
+    "BR0269073-2",
+    "Ácido Tricloroacético",
+    "80 %",
+    "Solução",
+    "Frasco 20 ml"
+  ],
+  [
+    "BR0269073",
+    "Ácido Tricloroacético",
+    "80 %",
+    "Solução",
+    "Frasco 5 ml"
+  ],
+  [
+    "BR0269069",
+    "Ácido Tricloroacético",
+    "90 %",
+    "Solução",
+    "Frasco 10 ml"
+  ],
+  [
+    "BR0269069-1",
+    "Ácido Tricloroacético",
+    "90 %",
+    "Solução",
+    "Frasco 20 ml"
+  ],
+  [
+    "BR0269069-2",
+    "Ácido Tricloroacético",
+    "90 %",
+    "Solução",
+    "Frasco 30 ml"
+  ],
+  [
+    "BR0269460",
+    "Ácido Ursodesoxicólico",
+    "150 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0309040",
+    "Ácido Ursodesoxicólico",
+    "300 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0277519",
+    "Ácido Ursodesoxicólico",
+    "50 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0406975",
+    "Ácido Valpróico (Valproato de Sódio)",
+    "100 mg/ml",
+    "Solução injetável",
+    "Ampola 10 ml"
+  ],
+  [
+    "BR0406975-1",
+    "Ácido Valpróico (Valproato de Sódio)",
+    "100 mg/ml",
+    "Solução injetável",
+    "Ampola 2 ml"
+  ],
+  [
+    "BR0406975-3",
+    "Ácido Valpróico (Valproato de Sódio)",
+    "100 mg/ml",
+    "Solução injetável",
+    "Frasco 5 ml"
+  ],
+  [
+    "BR0328535-1",
+    "Ácido Valpróico (Valproato de Sódio)",
+    "200 mg/ml gotas",
+    "Solução oral",
+    "Frasco 40 ml"
+  ],
+  [
+    "BR0267504-1",
+    "Ácido Valpróico (Valproato de Sódio)",
+    "250 mg",
+    "Cápsula",
+    "Cápsula"
+  ],
+  [
+    "BR0267504-2",
+    "Ácido Valpróico (Valproato de Sódio)",
+    "250 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0328531",
+    "Ácido Valpróico (Valproato de Sódio)",
+    "300 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0407033",
+    "Ácido Valpróico (Valproato de Sódio)",
+    "300 mg",
+    "Comprimido de liberação prolongada",
+    "Comprimido"
+  ],
+  [
+    "BR0400436",
+    "Ácido Valpróico (Valproato de Sódio)",
+    "500 mg",
+    "Comprimido de liberação prolongada",
+    "Comprimido"
+  ],
+  [
+    "BR0267505",
+    "Ácido Valpróico (Valproato de Sódio)",
+    "500 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0308732",
+    "Ácido Valpróico (Valproato de Sódio)",
+    "50 mg/ml",
+    "Xarope",
+    "Frasco 100 ml"
+  ],
+  [
+    "BR0338411",
+    "Ácido Zoledrônico",
+    "4 mg",
+    "Pó liofilizado para solução injetável",
+    "Ampola 5 ml"
+  ],
+  [
+    "BR0356051",
+    "Ácido Zoledrônico",
+    "50 mcg/ml",
+    "Solução injetável",
+    "Frasco 100 ml"
+  ],
+  [
+    "BR038719",
+    "Acitretina",
+    "10 mg",
+    "Cápsula",
+    "Cápsula"
+  ],
+  [
+    "BR0308718",
+    "Acitretina",
+    "25 mg",
+    "Cápsula",
+    "Cápsula"
+  ],
+  [
+    "BR0290058",
+    "Adalimumabe",
+    "40 mg",
+    "Solução injetável",
+    "Seringa"
+  ],
+  [
+    "BR0389710",
+    "Adapaleno",
+    "3 mg/g",
+    "Gel",
+    "Bisnaga 30 g"
+  ],
+  [
+    "BR0280505",
+    "Adefovir",
+    "10 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0278281",
+    "Adenosina, Fosfato",
+    "3 mg/ml",
+    "Solução injetável",
+    "Ampola 2 ml"
+  ],
+  [
+    "BR0309062",
+    "Aesculus Hippocastanum L. (Castanha da Índia)",
+    "100 mg",
+    "Cápsula",
+    "Cápsula"
+  ],
+  [
+    "BR0309063",
+    "Aesculus Hippocastanum L. (Castanha da Índia)",
+    "300 mg",
+    "Cápsula",
+    "Cápsula"
+  ],
+  [
+    "BR0430315",
+    "Aflibercept",
+    "40 mg/ml",
+    "Solução injetável",
+    "Frasco-ampola 0,278 ml"
+  ],
+  [
+    "BR0397912",
+    "Agomelatina",
+    "25 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0276839-4",
+    "Água Destilada",
+    "",
+    "Solução injetável",
+    "Ampola 10 ml"
+  ],
+  [
+    "BR0276839-2",
+    "Água Destilada",
+    "",
+    "Solução injetável",
+    "Ampola 20 ml"
+  ],
+  [
+    "BR0276839-9",
+    "Água Destilada",
+    "",
+    "Solução injetável",
+    "Ampola 2 ml"
+  ],
+  [
+    "BR0276839-10",
+    "Água Destilada",
+    "",
+    "Solução injetável",
+    "Ampola 4 ml"
+  ],
+  [
+    "BR0276839-1",
+    "Água Destilada",
+    "",
+    "Solução injetável",
+    "Ampola 5 ml"
+  ],
+  [
+    "BR0352317",
+    "Água Destilada",
+    "",
+    "Solução injetável",
+    "Frasco 1000 ml sistema fechado"
+  ],
+  [
+    "BR0276839-8",
+    "Água Destilada",
+    "",
+    "Solução injetável",
+    "Frasco 100 ml"
+  ],
+  [
+    "BR0276839-6",
+    "Água Destilada",
+    "",
+    "Solução injetável",
+    "Frasco 1 l"
+  ],
+  [
+    "BR0276839-5",
+    "Água Destilada",
+    "",
+    "Solução injetável",
+    "Frasco 250 ml"
+  ],
+  [
+    "BR0276839-7",
+    "Água Destilada",
+    "",
+    "Solução injetável",
+    "Frasco 2 l"
+  ],
+  [
+    "BR0276839-3",
+    "Água Destilada",
+    "",
+    "Solução injetável",
+    "Frasco 500 ml"
+  ],
+  [
+    "BR0432315",
+    "Alantoina, Aloe Vera, Ácidos Graxos Essenciais, Vitamina \"A\" e \"E\"",
+    "",
+    "Gel creme",
+    "Tubo 100 g"
+  ],
+  [
+    "BR0269628",
+    "Albendazol",
+    "200 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0267506",
+    "Albendazol",
+    "400 mg",
+    "Comprimido mastigável",
+    "Comprimido"
+  ],
+  [
+    "BR0267507-1",
+    "Albendazol",
+    "40 mg/ml",
+    "Suspensão oral",
+    "Frasco 10 ml"
+  ],
+  [
+    "BR0267507-2",
+    "Albendazol",
+    "40 mg/ml",
+    "Suspensão oral",
+    "Frasco 20 ml"
+  ],
+  [
+    "BR0428786",
+    "Albumina Humana",
+    "10 %",
+    "Solução injetável",
+    "Frasco 50 ml"
+  ],
+  [
+    "BR0268376",
+    "Albumina Humana",
+    "20 %",
+    "Solução injetável",
+    "Frasco-ampola 50 ml"
+  ],
+  [
+    "BR0268377",
+    "Albumina Humana",
+    "20 %",
+    "Sol inj (fr-amp)",
+    "Frasco-ampola com equipo 50 ml"
+  ],
+  [
+    "BR0395837",
+    "Alcatrão Mineral",
+    "1 %",
+    "Pomada",
+    "Bisnaga"
+  ],
+  [
+    "BR0269943-3",
+    "Álcool Etílico",
+    "70",
+    "Gel",
+    "Frasco 1000 ml"
+  ],
+  [
+    "BR0269941-1",
+    "Álcool Etílico",
+    "70 %",
+    "Solução",
+    "Frasco 100 ml"
+  ],
+  [
+    "BR0269941",
+    "Álcool Etílico",
+    "70 %",
+    "Solução",
+    "Frasco 1 l"
+  ],
+  [
+    "BR0269943-4",
+    "Álcool Etílico",
+    "70 %",
+    "Gel",
+    "Frasco 5000 ml"
+  ],
+  [
+    "BR0269943-1",
+    "Álcool Etílico",
+    "70 %",
+    "Gel",
+    "Frasco 500 ml"
+  ],
+  [
+    "BR0269943-2",
+    "Álcool Etílico",
+    "70 %",
+    "Gel",
+    "Frasco 800 ml"
+  ],
+  [
+    "BR0328596",
+    "Álcool Etílico",
+    ">99 %",
+    "Solução injetável",
+    "Ampola 10 ml"
+  ],
+  [
+    "BR0357239",
+    "Álcool Etílico",
+    "99,5 %",
+    "Solução",
+    "Frasco 1000 ml"
+  ],
+  [
+    "BR0331153",
+    "Álcool Polivinílico + Povidona",
+    "14 mg + 6 mg/ml",
+    "Solução oftálmica",
+    "Flaconete 0,4 ml"
+  ],
+  [
+    "BR0308721",
+    "Alendronato de Sódio",
+    "10 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0269462",
+    "Alendronato de Sódio",
+    "70 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0415213",
+    "Alendronato de Sódio + Carbonato de Cálcio + Colecalciferol",
+    "70 mg + 500 mg + 200 ui",
+    "Comprimido",
+    "Caixa"
+  ],
+  [
+    "BR0383791",
+    "Alendronato de Sódio + Colecalciferol",
+    "70 mg + 2.800 ui",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0413882",
+    "Alendronato de Sódio + Colecalciferol",
+    "70 mg + 5.600 ui",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0388866",
+    "Alentuzumabe",
+    "30 mg/ml",
+    "Solução injetável",
+    "Frasco-ampola 1 ml"
+  ],
+  [
+    "BR0370560",
+    "Alfa-1 Antitripsina (AAT)",
+    "20 mg/ml",
+    "Solução injetável",
+    "Frasco 50 ml"
+  ],
+  [
+    "BR0292401",
+    "Alfacalcidol",
+    "1 mcg",
+    "Cápsula",
+    "Cápsula"
+  ],
+  [
+    "BR0272787",
+    "Alfadornase",
+    "1 mg/ml",
+    "Solução para inalação",
+    "Frasco 2,5 ml"
+  ],
+  [
+    "BR0266630",
+    "Alfaepoetina",
+    "10.000 ui",
+    "Solução injetável",
+    "Frasco-ampola 1 ml"
+  ],
+  [
+    "BR0266627",
+    "Alfaepoetina",
+    "1000 ui",
+    "Solução injetável",
+    "Frasco-ampola 1 ml"
+  ],
+  [
+    "BR0266628",
+    "Alfaepoetina",
+    "2.000 ui",
+    "Solução injetável",
+    "Frasco-ampola"
+  ],
+  [
+    "BR0267079",
+    "Alfaepoetina",
+    "3.000 ui",
+    "Solução injetável",
+    "Frasco-ampola 1 ml"
+  ],
+  [
+    "BR0294774",
+    "Alfaepoetina",
+    "40000 ui seringa 1 ml",
+    "Solução injetável",
+    "Seringa com sistema de aplicação"
+  ],
+  [
+    "BR0266629",
+    "Alfaepoetina",
+    "4.000 ui",
+    "Solução injetável",
+    "Frasco-ampola 1 ml"
+  ],
+  [
+    "BR0436508",
+    "Alfaestradiol",
+    "0,25 mg",
+    "Solução",
+    "Frasco 100 ml"
+  ],
+  [
+    "BR0266762-1",
+    "Alfainterferona 2a",
+    "3.000.000 ui",
+    "Solução injetável",
+    "Seringa preenchida com sistema de aplicação 0,5 ml"
+  ],
+  [
+    "BR0266766",
+    "Alfainterferona 2b",
+    "10.000.000 ui",
+    "Pó liofilizado para solução injetável",
+    "Frasco-ampola"
+  ],
+  [
+    "BR0266767",
+    "Alfainterferona 2b",
+    "3.000.000 ui",
+    "Pó liofilizado para solução injetável",
+    "Frasco-ampola"
+  ],
+  [
+    "BR0266765",
+    "Alfainterferona 2b",
+    "5.000.000 ui",
+    "Pó liofilizado para solução injetável",
+    "Frasco-ampola"
+  ],
+  [
+    "BR0322033",
+    "Alfalutropina",
+    "75 ui",
+    "Pó liofilizado para solução injetável",
+    "Frasco-ampola"
+  ],
+  [
+    "BR0267470",
+    "Alfapeginterferona 2a, 180 Mcg",
+    "180",
+    "Solução injetável",
+    "Frasco-ampola"
+  ],
+  [
+    "BR0267473",
+    "Alfapeginterferona 2b",
+    "100 mcg",
+    "Pó liofilizado para solução injetável",
+    "Frasco-ampola"
+  ],
+  [
+    "BR0267471",
+    "Alfapeginterferona 2b",
+    "120 mcg",
+    "Pó liofilizado para solução injetável",
+    "Frasco"
+  ],
+  [
+    "BR0267472",
+    "Alfapeginterferona 2b",
+    "80 mcg",
+    "Pó liofilizado para solução injetável",
+    "Frasco-ampola 1 ml"
+  ],
+  [
+    "BR0391336",
+    "Alfataliglicerase",
+    "200 u",
+    "Pó liofilizado para solução injetável",
+    "Frasco-ampola"
+  ],
+  [
+    "BR0276959",
+    "Alfatirotropina (Tirotrofina)",
+    "1,1 mg",
+    "Pó liof inj (fr-amp)",
+    "Frasco-ampola 1,2 ml"
+  ],
+  [
+    "BR0329610",
+    "Alfatocoferol (Vitamina E)",
+    "400 mg",
+    "Cápsula",
+    "Cápsula"
+  ],
+  [
+    "BR0268378",
+    "Alfentanila",
+    "0,544 mg/ml",
+    "Solução injetável",
+    "Ampola 5 ml"
+  ],
+  [
+    "BR0306687",
+    "Alfuzosina",
+    "10 mg",
+    "Comprimido de liberação prolongada",
+    "Comprimido"
+  ],
+  [
+    "BR0295605",
+    "Algestona Acetofenida + Estradiol, Enantato",
+    "150 mg + 10 mg/ml",
+    "Solução injetável",
+    "Ampola 1 ml"
+  ],
+  [
+    "BR0366883",
+    "Alisquireno, Hemifumarato",
+    "150 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0366884",
+    "Alisquireno, Hemifumarato",
+    "300 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0415778",
+    "Alisquireno, Hemifumarato + Hidroclorotiazida",
+    "150 mg + 12,5 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0406602",
+    "Alisquireno, Hemifumarato + Hidroclorotiazida",
+    "300 mg + 12,5 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0395847",
+    "Aloe Vera",
+    "5 %",
+    "Pomada",
+    "Bisnaga 30 g"
+  ],
+  [
+    "BR0267508",
+    "Alopurinol",
+    "100 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0267509",
+    "Alopurinol",
+    "300 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0271358",
+    "Alprazolam",
+    "0,25 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0271357",
+    "Alprazolam",
+    "0,5 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0271357-1",
+    "Alprazolam",
+    "0,5 mg",
+    "Comprimido de liberação prolongada",
+    "Comprimido"
+  ],
+  [
+    "BR0271356",
+    "Alprazolam",
+    "1 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0284465",
+    "Alprazolam",
+    "2 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0284465-1",
+    "Alprazolam",
+    "2 mg",
+    "Cápsula dura de liberação prolongada",
+    "Comprimido"
+  ],
+  [
+    "BR0271356-1",
+    "Alprazolam, 1 Mg",
+    "1",
+    "Comprimido de liberação controlada",
+    "Comprimido"
+  ],
+  [
+    "BR0268380",
+    "Alprostadil",
+    "20 mcg/ml",
+    "Solução injetável",
+    "Ampola 1 ml"
+  ],
+  [
+    "BR0333142",
+    "Alprostadil",
+    "500 mcg/ml",
+    "Solução injetável",
+    "Ampola 1 ml"
+  ],
+  [
+    "BR0436416",
+    "Alteplase",
+    "10 mg",
+    "Pó liof inj (fr-amp)",
+    "Frasco 10 ml"
+  ],
+  [
+    "BR0275422",
+    "Alteplase",
+    "20 mg/ml",
+    "Sol inj (fr-amp)",
+    "Frasco-ampola 20 ml"
+  ],
+  [
+    "BR0275423",
+    "Alteplase",
+    "50 mg",
+    "Pó para solução injetável",
+    "Frasco-ampola"
+  ],
+  [
+    "BR0268079",
+    "Amantadina",
+    "100 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0404655",
+    "Ambrisentana",
+    "5 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0271660-1",
+    "Ambroxol, Cloridrato",
+    "3 mg/ml",
+    "Xarope",
+    "Frasco 100 ml"
+  ],
+  [
+    "BR0271660-2",
+    "Ambroxol, Cloridrato",
+    "3 mg/ml",
+    "Xarope",
+    "Frasco 120"
+  ],
+  [
+    "BR0271659-1",
+    "Ambroxol, Cloridrato",
+    "6 mg/ml",
+    "Xarope",
+    "Frasco 100 ml"
+  ],
+  [
+    "BR0271659-2",
+    "Ambroxol, Cloridrato",
+    "6 mg/ml",
+    "Xarope",
+    "Frasco 120 ml"
+  ],
+  [
+    "BR0271661-1",
+    "Ambroxol, Cloridrato",
+    "7,5 mg/ml",
+    "Solução oral",
+    "Frasco 50 ml"
+  ],
+  [
+    "BR0271661-2",
+    "Ambroxol, Cloridrato",
+    "7,5 mg/ml",
+    "Solução oral",
+    "Frasco 60 ml"
+  ],
+  [
+    "BR0437387",
+    "Amburana Cearensis (Cumaru)",
+    "5 %",
+    "Xarope",
+    "Frasco 100 ml"
+  ],
+  [
+    "BR0268382-2",
+    "Amicacina, Sulfato",
+    "125 mg/ml",
+    "Solução injetável",
+    "Ampola 2 ml"
+  ],
+  [
+    "BR0268381-1",
+    "Amicacina, Sulfato",
+    "250 mg/ml",
+    "Solução injetável",
+    "Ampola 1 ml"
+  ],
+  [
+    "BR0268381-2",
+    "Amicacina, Sulfato",
+    "250 mg/ ml",
+    "Solução injetável",
+    "Ampola 2 ml"
+  ],
+  [
+    "BR0268383",
+    "Amicacina, Sulfato",
+    "50 mg/ml",
+    "Solução injetável",
+    "Ampola 2 ml"
+  ],
+  [
+    "BR0327802",
+    "Amilorida, Cloridrato + Clortalidona",
+    "5 mg + 25 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0271165",
+    "Amilorida, Cloridrato + Hidroclorotiazida",
+    "2,5 mg + 25 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0271162",
+    "Amilorida, Cloridrato + Hidroclorotiazida",
+    "5 mg + 50 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0396087",
+    "Aminaftona",
+    "75 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0319945",
+    "Aminoácidos, A 10 %, Solução Glicose 50 %, com Taurina + Oligoelementos, para Neonatos",
+    "20 %",
+    "Emulsão",
+    "Frasco"
+  ],
+  [
+    "BR0327695",
+    "Aminoácidos, A 10 %, Solução Glicose 50 %, sem Taurina + Oligoelementos, para Neonatos",
+    "20 %",
+    "Emulsão",
+    "Frasco"
+  ],
+  [
+    "BR0279223",
+    "Aminoácidos, A 8 % P/ Hepatopatas, Sem Carbohidrato, Sem Eletrólitos",
+    "",
+    "Solução",
+    "Frasco 500 ml"
+  ],
+  [
+    "BR0343649",
+    "Aminoácidos, C/8 Aminoácidos Essenciais + Histidina, Sem Carbohidrato, Sem Eletrólitos",
+    "6,5 a 6,9 % de aa totais",
+    "Solução injetável",
+    "Frasco"
+  ],
+  [
+    "BR0343646",
+    "Aminoácidos, com Taurina e Cisteína, Isenta de Carbohidratos e Eletrólitos",
+    "10 %",
+    "Solução injetável",
+    "Frasco"
+  ],
+  [
+    "BR0343644",
+    "Aminoácidos, Essenciais e Não Essenciais à 10 %, Sem Carbohidrato, Sem Eletrólitos",
+    "",
+    "Solução injetável",
+    "Frasco"
+  ],
+  [
+    "BR0290947",
+    "Aminoácidos (Lisina 75 mg, Treonina 53 mg, Triptofano 23 mg, Histidina 38 mg, Tirosina 30 mg) + Análogos (Isoleucina 67 mg, Leucina 101 mg, Valina 85 mg, Alfa-hidroxi-análogo da Metionina 59 mg)",
+    "",
+    "Tablete",
+    "Tablete"
+  ],
+  [
+    "BR0267511",
+    "Aminofilina",
+    "100 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0269810",
+    "Aminofilina",
+    "200 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0292402",
+    "Aminofilina",
+    "24 mg/ml",
+    "Solução injetável",
+    "Ampola 10 ml"
+  ],
+  [
+    "BR0271709",
+    "Amiodarona, Cloridrato",
+    "100 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0267510",
+    "Amiodarona, Cloridrato",
+    "200 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0271710",
+    "Amiodarona, Cloridrato",
+    "50 mg/ml",
+    "Solução injetável",
+    "Ampola 3 ml"
+  ],
+  [
+    "BR0401321",
+    "Amissulprida",
+    "200 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0396081",
+    "Amissulprida",
+    "50 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0434111",
+    "Amitriptilina, Cloridrato",
+    "10 mg",
+    "Comprimido de liberação controlada",
+    "Comprimido"
+  ],
+  [
+    "BR0267512",
+    "Amitriptilina, Cloridrato",
+    "25 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0276333",
+    "Amitriptilina, Cloridrato",
+    "75 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0276336",
+    "Amitriptilina, Cloridrato + Clordiazepóxido",
+    "12,5 mg + 5 mg",
+    "Cápsula",
+    "Cápsula"
+  ],
+  [
+    "BR0299693",
+    "Amorolfina, Cloridrato",
+    "2,5 mg/g",
+    "Creme",
+    "Bisnaga 20 g"
+  ],
+  [
+    "BR0299692",
+    "Amorolfina, Cloridrato",
+    "50 mg/ml",
+    "Esmalte",
+    "Frasco 2,5 ml"
+  ],
+  [
+    "BR0271089-1",
+    "Amoxicilina",
+    "500 mg",
+    "Cápsula",
+    "Cápsula"
+  ],
+  [
+    "BR0271089-2",
+    "Amoxicilina",
+    "500 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0271111-4",
+    "Amoxicilina",
+    "50 mg/ml",
+    "Pó para suspensão",
+    "Frasco 100 ml"
+  ],
+  [
+    "BR0271111-3",
+    "Amoxicilina",
+    "50 mg/ml",
+    "Pó para suspensão",
+    "Frasco 150 ml"
+  ],
+  [
+    "BR0271111-1",
+    "Amoxicilina",
+    "50 mg/ml",
+    "Pó para suspensão",
+    "Frasco 60 ml"
+  ],
+  [
+    "BR0271111-2",
+    "Amoxicilina",
+    "50 mg/ml",
+    "Pó para suspensão",
+    "Frasco 80 ml"
+  ],
+  [
+    "BR0271100",
+    "Amoxicilina + Clavulanato de Potássio",
+    "1 g + 0,2 g",
+    "Solução injetável",
+    "Frasco-ampola"
+  ],
+  [
+    "BR0271218",
+    "Amoxicilina + Clavulanato de Potássio",
+    "25 mg + 6,25 mg/ml",
+    "Suspensão oral",
+    "Frasco 75 ml"
+  ],
+  [
+    "BR0281135-3",
+    "Amoxicilina + Clavulanato de Potássio",
+    "40 + 5,7 mg/ml",
+    "Suspensão oral",
+    "Frasco 70 ml"
+  ],
+  [
+    "BR0271099",
+    "Amoxicilina + Clavulanato de Potássio",
+    "500 mg + 100 mg",
+    "Pó para solução injetável",
+    "Frasco-ampola 10 ml"
+  ],
+  [
+    "BR0271217",
+    "Amoxicilina + Clavulanato de Potássio",
+    "500 mg + 125 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0281135-2",
+    "Amoxicilina + Clavulanato de Potássio",
+    "50 mg + 12,5 mg/ml",
+    "Suspensão oral",
+    "Frasco 100 ml"
+  ],
+  [
+    "BR0281135-1",
+    "Amoxicilina + Clavulanato de Potássio",
+    "50 mg + 12,5 mg/ml",
+    "Suspensão oral",
+    "Frasco 75 ml"
+  ],
+  [
+    "BR0386396",
+    "Amoxicilina + Clavulanato de Potássio",
+    "80 mg + 11,5 mg/ml",
+    "Suspensão oral",
+    "Frasco 70 ml"
+  ],
+  [
+    "BR0353333",
+    "Amoxicilina + Clavulanato de Potássio",
+    "875 mg + 125 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0293803",
+    "Amoxicilina + Sulbactam",
+    "875 mg + 125 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0268207",
+    "Ampicilina",
+    "1000 mg",
+    "Pó para solução injetável",
+    "Frasco-ampola"
+  ],
+  [
+    "BR0267515-1",
+    "Ampicilina",
+    "500 mg",
+    "Cápsula",
+    "Cápsula"
+  ],
+  [
+    "BR0267515-2",
+    "Ampicilina",
+    "500 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0268393",
+    "Ampicilina",
+    "500 mg",
+    "Pó para solução injetável",
+    "Frasco-ampola"
+  ],
+  [
+    "BR0267139",
+    "Ampicilina",
+    "50 mg/ml",
+    "Suspensão oral",
+    "Frasco 60 ml"
+  ],
+  [
+    "BR0270556",
+    "Ampicilina + Sulbactam",
+    "1 g + 500 mg",
+    "Pó para solução injetável",
+    "Frasco-ampola"
+  ],
+  [
+    "BR0270555",
+    "Ampicilina + Sulbactam",
+    "2 g + 1 g",
+    "Pó para solução injetável",
+    "Frasco-ampola"
+  ],
+  [
+    "BR0268320",
+    "Amprenavir",
+    "150 mg",
+    "Cápsula",
+    "Cápsula"
+  ],
+  [
+    "BR0268322",
+    "Amprenavir",
+    "15 mg/ml",
+    "Pó para solução",
+    "Frasco 240 ml"
+  ],
+  [
+    "BR0277649",
+    "Anagrelida, Cloridrato",
+    "0,5 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0278348",
+    "Anastrozol",
+    "1 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0398269",
+    "Anfepramona, Cloridrato",
+    "75 mg",
+    "Comprimido de liberação prolongada",
+    "Comprimido"
+  ],
+  [
+    "BR0332888",
+    "Anfotericina B",
+    "100 mg",
+    "Pó liofilizado para solução injetável",
+    "Frasco-ampola"
+  ],
+  [
+    "BR0276823",
+    "Anfotericina B",
+    "100 mg",
+    "Solução injetável",
+    "Frasco-ampola lipossomal 20 ml"
+  ],
+  [
+    "BR0268395",
+    "Anfotericina B",
+    "50 mg",
+    "Pó para solução injetável",
+    "Frasco"
+  ],
+  [
+    "BR0324358",
+    "Anfotericina B",
+    "5 mg/ml",
+    "Suspensão injetável",
+    "Frasco-ampola 20 ml"
+  ],
+  [
+    "BR0268394",
+    "Anfotericina B Lipossomal",
+    "",
+    "Pó para solução injetável",
+    "Frasco-ampola 50 mg"
+  ],
+  [
+    "BR0379002",
+    "Anidulafungina",
+    "",
+    "Pó liof inj (amp)",
+    "Frasco-ampola 100 mg"
+  ],
+  [
+    "BR0268896",
+    "Anlodipino, Besilato",
+    "10 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0272435",
+    "Anlodipino, Besilato",
+    "2,5 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0272434",
+    "Anlodipino, Besilato",
+    "5 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0331309",
+    "Anlodipino, Besilato + Atenolol",
+    "5 + 25 mg",
+    "Cápsula",
+    "Cápsula"
+  ],
+  [
+    "BR0331308",
+    "Anlodipino, Besilato + Atenolol",
+    "5 mg + 50 mg",
+    "Cápsula",
+    "Cápsula"
+  ],
+  [
+    "BR0400091",
+    "Anlodipino, Besilato + Atorvastatina",
+    "5 mg + 10 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0394915",
+    "Anlodipino, Besilato + Benazepril, Cloridrato",
+    "2,5 mg + 10 mg",
+    "Cápsula",
+    "Cápsula"
+  ],
+  [
+    "BR0394916",
+    "Anlodipino, Besilato + Benazepril, Cloridrato",
+    "5 mg + 10 mg",
+    "Cápsula",
+    "Cápsula"
+  ],
+  [
+    "BR0364917",
+    "Anlodipino, Besilato + Benazepril, Cloridrato",
+    "5 mg + 20 mg",
+    "Cápsula",
+    "Cápsula"
+  ],
+  [
+    "BR0270877",
+    "Anlodipino, Besilato + Enalapril, Maleato",
+    "2,5 mg + 10 mg",
+    "Cápsula",
+    "Cápsula"
+  ],
+  [
+    "BR0270878",
+    "Anlodipino, Besilato + Enalapril, Maleato",
+    "5 mg + 10 mg",
+    "Cápsula",
+    "Cápsula"
+  ],
+  [
+    "BR0270879",
+    "Anlodipino, Besilato + Enalapril, Maleato",
+    "5 mg + 20 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0343125",
+    "Anlodipino, Besilato + Losartana Potássica",
+    "2,5 mg + 50 mg",
+    "Comprimido",
+    "Cápsula"
+  ],
+  [
+    "BR0343126",
+    "Anlodipino, Besilato + Losartana Potássica",
+    "5 mg + 100 mg",
+    "Cápsula",
+    "Cápsula"
+  ],
+  [
+    "BR0429846",
+    "Apixabana",
+    "5 mg",
+    "Comp",
+    "Comprimido"
+  ],
+  [
+    "BR0362266",
+    "Aprepitanto",
+    "2 cap 80 mg + (inativo)",
+    "Cápsula",
+    "Caixa 1 cap 125 mg"
+  ],
+  [
+    "BR0437411",
+    "Arginina",
+    "0,25 mg/ml",
+    "Xarope",
+    "Frasco 150 ml"
+  ],
+  [
+    "BR0430050-1",
+    "Arginina",
+    "250 mg/ml",
+    "Xarope",
+    "Frasco 600 ml"
+  ],
+  [
+    "BR0414455",
+    "Arginina",
+    "400 mg/ml",
+    "Xarope",
+    "Frasco 450 ml"
+  ],
+  [
+    "BR0404443",
+    "Arginina + Ornitina + Citrulina",
+    "185 mg + 60 mg + 5 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0364780",
+    "Aripiprazol",
+    "10 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0284101",
+    "Aripiprazol",
+    "15 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0364781",
+    "Aripiprazol",
+    "20 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0286278",
+    "Aripiprazol",
+    "30 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0266665",
+    "Artemeter",
+    "80 mg/ml",
+    "Solução injetável",
+    "Ampola 1 ml"
+  ],
+  [
+    "BR0400564-4",
+    "Artemeter + Lumefantrina",
+    "20 + 120 mg",
+    "Comprimido",
+    "Blister 35 kg (c/24 blister)"
+  ],
+  [
+    "BR0400564-2",
+    "Artemeter + Lumefantrina",
+    "20 mg + 120 mg",
+    "Comprimido",
+    "Blister 15 - 24 kg (c/12 blister)"
+  ],
+  [
+    "BR0400564-3",
+    "Artemeter + Lumefantrina",
+    "20 mg + 120 mg",
+    "Comprimido",
+    "Blister 25 - 34 kg (c/18 blister)"
+  ],
+  [
+    "BR0400564-1",
+    "Artemeter + Lumefantrina",
+    "20 mg + 120 mg",
+    "Comprimido",
+    "Blister 5 - 14 kg (c/6 blister)"
+  ],
+  [
+    "BR0400564",
+    "Artemeter + Lumefantrina, 20 + 120 Mg",
+    "20 + 120",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0328513",
+    "Artesunato de Sódio",
+    "60 mg",
+    "Pó para solução injetável",
+    "Frasco-ampola"
+  ],
+  [
+    "BR0370120-1",
+    "Artesunato + Mefloquina",
+    "100 + 220 mg",
+    "Comprimido",
+    "Blister (3 comp) 6 a 11 anos"
+  ],
+  [
+    "BR0370120-2",
+    "Artesunato + Mefloquina",
+    "100 + 220 mg",
+    "Comprimido",
+    "Blister (6 comp) 12 anos ou mais"
+  ],
+  [
+    "BR0370120",
+    "Artesunato + Mefloquina",
+    "100 + 220 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0370119-1",
+    "Artesunato + Mefloquina",
+    "25 + 55 mg",
+    "Comprimido",
+    "Blister (3 comp) 6 a 11 meses"
+  ],
+  [
+    "BR0370119-2",
+    "Artesunato + Mefloquina",
+    "25 + 55 mg",
+    "Comprimido",
+    "Blister (6 comp) 1 a 5 anos"
+  ],
+  [
+    "BR0370119",
+    "Artesunato + Mefloquina",
+    "25 + 55 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0417028",
+    "Asenapina",
+    "10 mg",
+    "Comprimido sublingual",
+    "Comprimido"
+  ],
+  [
+    "BR0417026",
+    "Asenapina",
+    "5 mg",
+    "Comprimido sublingual",
+    "Comprimido"
+  ],
+  [
+    "BR0305252",
+    "Asparaginase",
+    "10000 ui",
+    "Pó liof inj (fr-amp)",
+    "Frasco-ampola"
+  ],
+  [
+    "BR0395520",
+    "Aspartato de Magnésio + Carbonato de Calcio + Ranitidina + Colecalciferol",
+    "50 + 500 + 150 mg + 400 ui",
+    "Cápsula",
+    "Cápsula"
+  ],
+  [
+    "BR0387628",
+    "Aspartato, L-arginina",
+    "250 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0267516",
+    "Atenolol",
+    "25 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0267517",
+    "Atenolol",
+    "50 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0270791",
+    "Atenolol + Clortalidona",
+    "100 + 25 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0270793",
+    "Atenolol + Clortalidona",
+    "25 + 12,5 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0270792",
+    "Atenolol + Clortalidona",
+    "50 + 12,5 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0270779",
+    "Atenolol + Nifedipino",
+    "50 + 20 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0268080",
+    "Atorvastatina Cálcica",
+    "10 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0268081",
+    "Atorvastatina Cálcica",
+    "20 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0268082",
+    "Atorvastatina Cálcica",
+    "40 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0291549",
+    "Atorvastatina Cálcica",
+    "80 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0268396-1",
+    "Atracúrio",
+    "10 mg/ml",
+    "Solução injetável",
+    "Ampola 2,5 ml"
+  ],
+  [
+    "BR0268396",
+    "Atracúrio",
+    "10 mg/ml",
+    "Solução injetável",
+    "Ampola 5 ml"
+  ],
+  [
+    "BR0268214",
+    "Atropina, Sulfato",
+    "0,25 mg/ml",
+    "Solução injetável",
+    "Ampola 1 ml"
+  ],
+  [
+    "BR0277934-1",
+    "Atropina, Sulfato",
+    "0,5 mg/ml",
+    "Solução injetável",
+    "Ampola 1 ml"
+  ],
+  [
+    "BR0271051",
+    "Atropina, Sulfato",
+    "10 mg/ml",
+    "Solução oftálmica",
+    "Frasco 5 ml"
+  ],
+  [
+    "BR0271050",
+    "Atropina, Sulfato",
+    "5 mg/ml",
+    "Solução oftálmica",
+    "Frasco 5 ml"
+  ],
+  [
+    "BR0383436",
+    "Azacitidina",
+    "100 mg",
+    "Pó para solução injetável",
+    "Frasco-ampola"
+  ],
+  [
+    "BR0268083",
+    "Azatioprina",
+    "50 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0278356",
+    "Azelastina, Cloridrato",
+    "1 mg/ml",
+    "Solução nasal",
+    "Frasco 10 ml"
+  ],
+  [
+    "BR0278357",
+    "Azelastina, Cloridrato",
+    "1 mg/ml",
+    "Aerossol nasal",
+    "Frasco 10 ml"
+  ],
+  [
+    "BR0268951",
+    "Azitromicina",
+    "1 g",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0314517-3",
+    "Azitromicina",
+    "40 mg/ml",
+    "Pó para suspensão",
+    "Frasco 1200 mg"
+  ],
+  [
+    "BR0314517-4",
+    "Azitromicina",
+    "40 mg/ml",
+    "Pó para suspensão",
+    "Frasco 1500 mg"
+  ],
+  [
+    "BR0314517-1",
+    "Azitromicina",
+    "40 mg/ml",
+    "Pó para suspensão",
+    "Frasco 600 mg"
+  ],
+  [
+    "BR0314517-2",
+    "Azitromicina",
+    "40 mg/ml",
+    "Pó para suspensão",
+    "Frasco 900 mg"
+  ],
+  [
+    "BR0267140",
+    "Azitromicina",
+    "500 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0268952",
+    "Azitromicina",
+    "500 mg",
+    "Pó para solução injetável",
+    "Frasco-ampola"
+  ],
+  [
+    "BR0268397",
+    "Aztreonam",
+    "1 g",
+    "Pó para solução injetável",
+    "Frasco-ampola"
+  ],
+  [
+    "BR0277529",
+    "Azul de Metileno",
+    "1 %",
+    "Solução injetável",
+    "Ampola 2 ml"
+  ],
+  [
+    "BR0404137",
+    "Azul de Metileno",
+    "2 % formulação especialmente manipulada",
+    "Solução tópica",
+    "Frasco 20 ml"
+  ],
+  [
+    "BR0363099",
+    "Azul de Trypan",
+    "0,1 %",
+    "Solução oftálmica",
+    "Frasco 1 ml"
+  ],
+  [
+    "BR0327563",
+    "Azul de Trypan",
+    "0,1 %",
+    "Solução injetável",
+    "Seringa 1 ml"
+  ],
+  [
+    "BR0271746",
+    "Baclofeno",
+    "10 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0426921",
+    "Baclofeno",
+    "20 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0298574-3",
+    "Bambuterol, Cloridrato",
+    "1 mg/ml",
+    "Sol oral (fr)",
+    "Frasco 100 ml"
+  ],
+  [
+    "BR0298574-2",
+    "Bambuterol, Cloridrato",
+    "1 mg/ml",
+    "Sol oral (fr)",
+    "Frasco 120 ml"
+  ],
+  [
+    "BR0298574-1",
+    "Bambuterol, Cloridrato",
+    "1 mg/ml",
+    "Sol oral (fr)",
+    "Frasco 200 ml"
+  ],
+  [
+    "BR0298574-5",
+    "Bambuterol, Cloridrato",
+    "1 mg/ml",
+    "Sol oral (fr)",
+    "Frasco 20 ml"
+  ],
+  [
+    "BR0298574-4",
+    "Bambuterol, Cloridrato",
+    "1 mg/ml",
+    "Sol oral (fr)",
+    "Frasco 60 ml"
+  ],
+  [
+    "BR0272028",
+    "Bamifilina, Cloridrato",
+    "300 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0272027",
+    "Bamifilina, Cloridrato",
+    "600 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0292409",
+    "Basiliximabe",
+    "20 mg",
+    "Pó liofilizado para solução injetável",
+    "Frasco-ampola"
+  ],
+  [
+    "BR0267586",
+    "Beclometasona, Dipropionato",
+    "200 mcg",
+    "Cápsula",
+    "Cápsula 60 doses"
+  ],
+  [
+    "BR0267587",
+    "Beclometasona, Dipropionato",
+    "200 mcg/dose",
+    "Pó para inalação oral",
+    "Frasco 100 doses"
+  ],
+  [
+    "BR0267581",
+    "Beclometasona, Dipropionato",
+    "250 mcg/dose",
+    "Solução oral",
+    "Frasco 200 doses"
+  ],
+  [
+    "BR0267590",
+    "Beclometasona, Dipropionato",
+    "250 mcg/dose",
+    "Aerossol nasal",
+    "Frasco 200 doses"
+  ],
+  [
+    "BR0267585",
+    "Beclometasona, Dipropionato",
+    "400 mcg",
+    "Cápsula",
+    "Cápsula 60 doses"
+  ],
+  [
+    "BR0267589",
+    "Beclometasona, Dipropionato",
+    "400 mcg",
+    "Pó para inalação oral",
+    "Frasco 100 doses"
+  ],
+  [
+    "BR0267907",
+    "Beclometasona, Dipropionato",
+    "400 mcg/ml",
+    "Suspensão para aerossolterapia",
+    "Flaconete 2 ml"
+  ],
+  [
+    "BR0267582-3",
+    "Beclometasona, Dipropionato",
+    "50 mcg/dose",
+    "Aerossol nasal",
+    "Frasco 130 doses"
+  ],
+  [
+    "BR0346586-1",
+    "Beclometasona, Dipropionato",
+    "50 mcg/dose",
+    "Aerossol oral",
+    "Frasco 130 doses"
+  ],
+  [
+    "BR0346586-2",
+    "Beclometasona, Dipropionato",
+    "50 mcg/dose",
+    "Aerossol oral",
+    "Frasco 200 doses"
+  ],
+  [
+    "BR0267582-1",
+    "Beclometasona, Dipropionato",
+    "50 mg/dose",
+    "Aerossol nasal",
+    "Frasco 200 doses"
+  ],
+  [
+    "BR0407441",
+    "Beclometasona, Dipropionato + Formoterol, Fumarato",
+    "100 + 6 mcg/dose",
+    "Aerossol oral",
+    "Frasco 120 doses"
+  ],
+  [
+    "BR0352411",
+    "Beclometasona, Dipropionato + Salbutamol",
+    "400 mg + 800 mcg",
+    "Suspensão para nebulização",
+    "Flaconete 2 ml"
+  ],
+  [
+    "BR0284429",
+    "Beclometasona, Dipropionato + Salbutamol",
+    "50 + 100 mcg/dose",
+    "Suspensão para nebulização",
+    "Frasco com espaçador oral 200 doses"
+  ],
+  [
+    "BR0427613",
+    "Belimumabe",
+    "120 mg",
+    "Pó liof inj (amp)",
+    "Ampola"
+  ],
+  [
+    "BR0427614",
+    "Belimumabe",
+    "400 mg",
+    "Pó liofilizado para solução injetável",
+    "Frasco-ampola"
+  ],
+  [
+    "BR0320825",
+    "Benazepril, Cloridrato",
+    "10 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0320824",
+    "Benazepril, Cloridrato",
+    "5 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0320829",
+    "Benazepril, Cloridrato + Hidroclorotiazida",
+    "10 + 12,5 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0271747",
+    "Benciclano, Fumarato",
+    "100 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0271748",
+    "Benciclano, Fumarato",
+    "200 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0428804",
+    "Bendamustina",
+    "100 mg",
+    "Pó liofilizado para solução injetável",
+    "Frasco-ampola"
+  ],
+  [
+    "BR0410989",
+    "Benfotiamina",
+    "150 mg",
+    "Drágea",
+    "Drágea"
+  ],
+  [
+    "BR0293327",
+    "Benjoim",
+    "20 %",
+    "Tintura",
+    "Lata 1 l"
+  ],
+  [
+    "BR0400921",
+    "Benzalcônio, Cloreto + Cetrimônio, Brometo",
+    "0,2 + 2 mg",
+    "Creme",
+    "Bisnaga 40 g"
+  ],
+  [
+    "BR0284109",
+    "Benzbromarona",
+    "100 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0272174",
+    "Benzidamina, Cloridrato",
+    "30 mg/ml",
+    "Solução oral",
+    "Frasco 20 ml"
+  ],
+  [
+    "BR0292788",
+    "Benzidamina, Cloridrato",
+    "500 mg",
+    "Pó",
+    "Sachê 9,4 g"
+  ],
+  [
+    "BR0270612",
+    "Benzilpenicilina Benzatina",
+    "1.200.000 ui",
+    "Pó para suspensão injetável",
+    "Frasco-ampola"
+  ],
+  [
+    "BR0270613",
+    "Benzilpenicilina Benzatina",
+    "600.000 ui",
+    "Pó para suspensão injetável",
+    "Frasco-ampola"
+  ],
+  [
+    "BR0270615",
+    "Benzilpenicilina Potássica",
+    "1.000.000 ui",
+    "Solução injetável",
+    "Frasco-ampola 2 ml"
+  ],
+  [
+    "BR0270616",
+    "Benzilpenicilina Potássica",
+    "5.000.000 ui",
+    "Pó para solução injetável",
+    "Frasco"
+  ],
+  [
+    "BR0270614",
+    "Benzilpenicilina Procaína + Benzilpenicilina Potássica",
+    "400.000 ui",
+    "Pó para suspensão injetável",
+    "Frasco-ampola"
+  ],
+  [
+    "BR0268953",
+    "Benznidazol",
+    "100 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0409539",
+    "Benznidazol",
+    "12,5 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0311143",
+    "Benzoato de Benzila",
+    "100 mg/g",
+    "Sabonete",
+    "Unidade 50 g"
+  ],
+  [
+    "BR0311143-1",
+    "Benzoato de Benzila",
+    "100 mg/g",
+    "Sabonete",
+    "Unidade 80 g"
+  ],
+  [
+    "BR0308726-1",
+    "Benzoato de Benzila",
+    "250 mg/ml",
+    "Emulsão dermatológica",
+    "Frasco 100 ml"
+  ],
+  [
+    "BR0308726",
+    "Benzoato de Benzila",
+    "250 mg/ml",
+    "Emulsão dermatológica",
+    "Frasco 60 ml"
+  ],
+  [
+    "BR0393999",
+    "Benzoato de Sódio",
+    "100 mg/ml",
+    "Solução oral",
+    "Frasco-ampola 20 ml"
+  ],
+  [
+    "BR0414456-1",
+    "Benzoato de Sódio",
+    "200 mg/ml",
+    "Xarope",
+    "Frasco 150 ml"
+  ],
+  [
+    "BR0414456",
+    "Benzoato de Sódio",
+    "200 mg/ml",
+    "Xarope",
+    "Frasco 450 ml"
+  ],
+  [
+    "BR0414456-2",
+    "Benzoato de Sódio",
+    "4/20 g/ml",
+    "Xarope",
+    "Frasco 1200 ml"
+  ],
+  [
+    "BR0272150",
+    "Benzocaína + Benzoxiquina + Benzetônio + Mentol",
+    "4,5 + 1,2 + 0,1 + 0,5 mg",
+    "Aerossol",
+    "Frasco 43 g"
+  ],
+  [
+    "BR0404425-1",
+    "Benzocaína + Triclosana + Mentol",
+    "(45 + 5 + 5) mg/g",
+    "Creme",
+    "Bisnaga 20 g"
+  ],
+  [
+    "BR0404425-2",
+    "Benzocaína + Triclosana + Mentol",
+    "(45 + 5 + 5) mg/g",
+    "Creme",
+    "Bisnaga 30 g"
+  ],
+  [
+    "BR0405900",
+    "Benzocaína + Triclosana + Mentol",
+    "45 + 5 + 5 mg/g",
+    "Aerossol",
+    "Frasco"
+  ],
+  [
+    "BR0353397-1",
+    "Beractanto (Tensoativo Pulmonar Origem Animal)",
+    "25 mg/ml",
+    "Suspensão injetável",
+    "Frasco-ampola 4 ml"
+  ],
+  [
+    "BR0353397-2",
+    "Beractanto (Tensoativo Pulmonar Origem Animal)",
+    "25 mg/ml",
+    "Suspensão injetável",
+    "Frasco-ampola 8 ml"
+  ],
+  [
+    "BR0412122",
+    "Betacaroteno",
+    "5 mg",
+    "Cápsula",
+    "Cápsula"
+  ],
+  [
+    "BR0406485",
+    "Betaepoetina",
+    "50 mcg",
+    "Solução injetável",
+    "Seringa 0,3 ml"
+  ],
+  [
+    "BR0357119",
+    "Betagalsidase",
+    "35 mg",
+    "Inj (fr)",
+    "Frasco-ampola"
+  ],
+  [
+    "BR0357118",
+    "Betagalsidase",
+    "5 mg",
+    "Pó liofilizado para solução injetável",
+    "Frasco-ampola"
+  ],
+  [
+    "BR0394310",
+    "Betainterferona 1a",
+    "22 mcg",
+    "Solução injetável com sistema de aplicação",
+    "Seringa preenchida"
+  ],
+  [
+    "BR0394314",
+    "Betainterferona 1a",
+    "30 mcg",
+    "Sol inj (fr-amp ou ser preenc)",
+    "Unidade"
+  ],
+  [
+    "BR0394311",
+    "Betainterferona 1a",
+    "44 mcg",
+    "Solução injetável com sistema de aplicação",
+    "Seringa"
+  ],
+  [
+    "BR0394316",
+    "Betainterferona 1b",
+    "9.600.000 ui",
+    "Pó liófilo para injetável com sistema de aplicação",
+    "Frasco-ampola"
+  ],
+  [
+    "BR0267936",
+    "Betaistina, Dicloridrato",
+    "16 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0343573",
+    "Betaistina, Dicloridrato",
+    "24 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0274807",
+    "Betaistina, Dicloridrato",
+    "8 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0396555",
+    "Betametasona",
+    "0,1 mg/ml",
+    "Elixir",
+    "Frasco 120 ml"
+  ],
+  [
+    "BR0385435",
+    "Betametasona",
+    "0,5 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0385446",
+    "Betametasona",
+    "0,5 mg/ml",
+    "Solução oral",
+    "Frasco 15 ml"
+  ],
+  [
+    "BR0385436",
+    "Betametasona",
+    "2 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0282149",
+    "Betametasona",
+    "4 mg/ml",
+    "Solução injetável",
+    "Ampola 1 ml"
+  ],
+  [
+    "BR0270597",
+    "Betametasona, Acetato + Betametasona, Fosfato Dissódico",
+    "3 + 3 mg/ml",
+    "Suspensão injetável",
+    "Ampola 1 ml"
+  ],
+  [
+    "BR0270588",
+    "Betametasona, Dipropionato",
+    "0,5 mg/g",
+    "Pomada",
+    "Bisnaga 30 g"
+  ],
+  [
+    "BR0270587",
+    "Betametasona, Dipropionato",
+    "0,5 mg/g",
+    "Creme",
+    "Bisnaga 30 g"
+  ],
+  [
+    "BR0318309",
+    "Betametasona, Dipropionato + Ácido Salicílico",
+    "0,5 mg + 30 mg/g",
+    "Pomada",
+    "Bisnaga 30 g"
+  ],
+  [
+    "BR0403991",
+    "Betametasona, Dipropionato + Ácido Salicílico",
+    "(0,64 + 20) mg/ml",
+    "Solução tópica",
+    "Frasco 30 ml"
+  ],
+  [
+    "BR0270590",
+    "Betametasona, Dipropionato + Betametasona, Fosfato Dissódico",
+    "5 + 2 mg/ml",
+    "Suspensão injetável",
+    "Ampola 1 ml"
+  ],
+  [
+    "BR0332848",
+    "Betametasona, Dipropionato + Calcipotriol",
+    "0,05 + 0,5 mg/g",
+    "Pomada",
+    "Bisnaga 30 g"
+  ],
+  [
+    "BR0270596",
+    "Betametasona, Dipropionato + Gentamicina Sulfato",
+    "0,5 + 1 mg/g",
+    "Pomada",
+    "Bisnaga 30 g"
+  ],
+  [
+    "BR0270591",
+    "Betametasona, Dipropionato + Gentamicina Sulfato",
+    "0,5 + 1 mg/g",
+    "Creme",
+    "Bisnaga 30 g"
+  ],
+  [
+    "BR0340764",
+    "Betametasona, Dipropionato + Gentamicina Sulfato",
+    "1 + 3 mg/ml",
+    "Solução oto-oftálmica",
+    "Frasco 10 ml"
+  ],
+  [
+    "BR0352179-1",
+    "Betametasona, Valerato",
+    "1 mg/g",
+    "Creme",
+    "Bisnaga 15 g"
+  ],
+  [
+    "BR0352179-2",
+    "Betametasona, Valerato",
+    "1 mg/g",
+    "Creme",
+    "Bisnaga 30 g"
+  ],
+  [
+    "BR0352180",
+    "Betametasona, Valerato",
+    "1 mg/g",
+    "Pomada",
+    "Bisnaga 30 g"
+  ],
+  [
+    "BR0270602-1",
+    "Betametasona, Valerato + Gentamicina, Sulfato + Tolnaftato + Clioquinol",
+    "0,5 + 1 + 10 + 10 mg/g",
+    "Creme",
+    "Bisnaga 15 g"
+  ],
+  [
+    "BR0270602",
+    "Betametasona, Valerato + Gentamicina, Sulfato + Tolnaftato + Clioquinol",
+    "0,5 + 1 + 10 + 10 mg/g",
+    "Creme",
+    "Bisnaga 20 g"
+  ],
+  [
+    "BR0271758",
+    "Betanecol",
+    "10 mg",
+    "Cápsula",
+    "Cápsula"
+  ],
+  [
+    "BR0284435-1",
+    "Betaxolol, Cloridrato",
+    "5 %",
+    "Solução oftálmica",
+    "Flaconete 0,3 ml"
+  ],
+  [
+    "BR0284435-3",
+    "Betaxolol, Cloridrato",
+    "5 %",
+    "Solução oftálmica",
+    "Frasco 15 ml"
+  ],
+  [
+    "BR0284435-2",
+    "Betaxolol, Cloridrato",
+    "5 %",
+    "Solução oftálmica",
+    "Frasco 5 ml"
+  ],
+  [
+    "BR0311390-2",
+    "Bevacizumabe",
+    "25 mg/ml",
+    "Solução injetável",
+    "Frasco-ampola 16 ml"
+  ],
+  [
+    "BR0311390-1",
+    "Bevacizumabe",
+    "25 mg/ml",
+    "Solução injetável",
+    "Frasco-ampola 4 ml"
+  ],
+  [
+    "BR0267077",
+    "Bezafibrato",
+    "200 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0308729",
+    "Bezafibrato",
+    "400 mg",
+    "Comprimido de liberação prolongada",
+    "Comprimido"
+  ],
+  [
+    "BR0271761",
+    "Bicalutamida",
+    "50 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0271052",
+    "Bicarbonato de Sódio",
+    "",
+    "Pó",
+    "Envelope"
+  ],
+  [
+    "BR0276097",
+    "Bicarbonato de Sódio",
+    "10 %",
+    "Solução injetável",
+    "Ampola 10 ml"
+  ],
+  [
+    "BR0268222-2",
+    "Bicarbonato de Sódio",
+    "8,4 %",
+    "Solução injetável",
+    "Frasco 250 ml"
+  ],
+  [
+    "BR0268222-1",
+    "Bicarbonato de Sódio",
+    "8,4 %",
+    "Solução injetável",
+    "Frasco-ampola 10 ml"
+  ],
+  [
+    "BR0268222-3",
+    "Bicarbonato de Sódio",
+    "8,4 %",
+    "Solução injetável",
+    "Frasco-ampola 500 ml"
+  ],
+  [
+    "BR0412840",
+    "Bilastina",
+    "20 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0405997",
+    "Bimatoprosta",
+    "0,1 mg/ml",
+    "Solução oftálmica",
+    "Frasco 3 ml"
+  ],
+  [
+    "BR0405997-1",
+    "Bimatoprosta",
+    "0,1 mg/ml",
+    "Solução oftálmica",
+    "Frasco 5 ml"
+  ],
+  [
+    "BR0271848-1",
+    "Bimatoprosta",
+    "0,3 mg/ml",
+    "Solução oftálmica",
+    "Frasco 3 ml"
+  ],
+  [
+    "BR0271848-2",
+    "Bimatoprosta",
+    "0,3 mg/ml",
+    "Solução oftálmica",
+    "Frasco 5 ml"
+  ],
+  [
+    "BR0380419",
+    "Bimatoprosta + Timolol",
+    "0,03 + 0,5 mg/ml",
+    "Solução oftálmica",
+    "Frasco 3 ml"
+  ],
+  [
+    "BR0270140",
+    "Biperideno, Cloridrato",
+    "2 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0270141",
+    "Biperideno, Cloridrato",
+    "4 mg",
+    "Comprimido de liberação prolongada",
+    "Comprimido"
+  ],
+  [
+    "BR0270138",
+    "Biperideno, Lactato",
+    "5 mg/ml",
+    "Solução injetável",
+    "Ampola 1 ml"
+  ],
+  [
+    "BR0269603",
+    "Bisacodil",
+    "5 mg",
+    "Drágea",
+    "Drágea"
+  ],
+  [
+    "BR0368903",
+    "Bisacodil + Docusato de Sódio",
+    "5 + 60 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0404444",
+    "Bismuto Monobásico, Salicilato",
+    "500 mg",
+    "Cápsula",
+    "Cápsula"
+  ],
+  [
+    "BR0362721",
+    "Bisoprolol, Fumarato",
+    "10 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0362719",
+    "Bisoprolol, Fumarato",
+    "1,25 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0362720",
+    "Bisoprolol, Fumarato",
+    "2,5 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0362718",
+    "Bisoprolol, Fumarato",
+    "5 mg",
+    "Comprimido",
+    "Comprimido"
+  ],
+  [
+    "BR0434797",
+    "Bisoprolol, Fumarato + Hidroclorotiazida",
+    "10 + 25 mg",
+    "Comprimido",
+    "Comprimido"
+  ]
+]
